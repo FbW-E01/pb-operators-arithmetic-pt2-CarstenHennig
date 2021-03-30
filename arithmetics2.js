@@ -54,7 +54,7 @@ console.log(35.92 + (35.92/20));
 console.log((8+6+5+9+8+2+1+8.5+7+4)/9);
 
 // Q11. A math student scored 75, 70, 85, 90, 100 on the first five tests he took . After he took his sixth math test, the average is now 85. What did he score on the sixth test?
-console.log((75+70+85+90+100+90)/6);
+console.log("Score in the sixth test: " + (75+70+85+90+100+90)/6);
 
 // Expected output: Score in the sixth test: --.
 
